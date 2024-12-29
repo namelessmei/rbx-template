@@ -1,0 +1,7 @@
+std = "stddef"
+
+[config]
+global_usage = { ignore_pattern = "^__" }
+
+[rules]
+global_usage = "allow"

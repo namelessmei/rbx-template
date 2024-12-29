@@ -1,0 +1,1 @@
+print("Assets placeholder. Place asset files in here")

@@ -1,0 +1,7 @@
+/game.rbxlx
+/*.rbxlx.lock
+/*.rbxl.lock
+/*.lock
+
+build/
+Packages/

@@ -1,0 +1,11 @@
+{
+  "aliases": {
+    "pkg": "Packages/",
+    "client": "client/",
+    "modules": "modules/",
+    "server": "server/",
+    "std": "std/",
+    "tbench": ".devcontainer/tbench"
+  },
+  "languageMode": "nonstrict"
+}
